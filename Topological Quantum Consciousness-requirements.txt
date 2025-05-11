@@ -1,0 +1,8 @@
+qutip==4.7.3
+pyphi==1.2.2
+numpy>=1.21
+matplotlib>=3.4
+networkx>=2.6
+scikit-learn>=0.24
+seaborn
+
